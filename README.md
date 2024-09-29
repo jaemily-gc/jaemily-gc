@@ -1,4 +1,4 @@
-                                                                                                                                                      Updated: September 29, 2024
+                                                                                                  Updated: September 29, 2024
                                                       
 GitHub Profile README
 Welcome to my GitHub profile.
@@ -14,7 +14,7 @@ Your understanding of this condition is appreciated.
 
 Thank you!
 
-                    "Presenting a project publicly is not a permission to be violated by evaluating experts, especially, by unauthorized cloners." 
+    "Presenting a project publicly is not a permission to be violated by evaluating experts, especially, by unauthorized cloners." 
                                                                     -Jaemily Galinato Cadimas 
 
                                                       
