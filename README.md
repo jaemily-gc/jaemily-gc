@@ -1,4 +1,4 @@
-                                                                                                  Updated: September 29, 2024
+                                                                                                  Updated: September 30, 2024
                                                       
 GitHub Profile README
 Welcome to my GitHub profile.
@@ -19,8 +19,7 @@ Thank you!
 
                                                       
 - 👋 Hi, I’m Jaemily.                  
-   
-- 👀 A member and a Junior Software Engineer in Trivut, DevJedis Group.
+- 👀 A member and a Junior Software Engineer in Trivut, DevJedis group.
 - 🌱 The developer of My Tags Zone and Wedding Call RSVP App.
 - 💞️ I’m looking to have my extra time utilized.
 - 📫 Maybe I can work for/with you.
