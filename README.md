@@ -1,8 +1,5 @@
-**Check my project portfolio demos now!**
-Visit: **www.youtube.com/@jaemily-gc*
-(My Repository Projects Channel)
-
-                                                             
+**Check my project portfolio demos now!** Visit: *www.youtube.com/@jaemily-gc* - My Repository Projects Channel
+ 
                                                                                                   Updated: September 30, 2024
                                                       
 GitHub Profile README
@@ -31,6 +28,6 @@ Thank you!
 
 
   ⚡  I noticed my works were cloned 4x already even if I was prohibiting it, and it was just yesterday since I uploaded them. I figured that the only way to truly prevent unauthorized cloning is to make them private.
- So please, kindly communicate through my e-mail and send me your GitHub e-mail if you need to `see` my portfolio, so I can let you `see` them. Thank you! 😄
+ So please, kindly communicate through my e-mail and send me your GitHub e-mail if you need to `see/view` my projects, so I can let you `see/view` them. Thank you! 😄
 
   My e-mail address is:    jaemilycadimas@gmail.com
