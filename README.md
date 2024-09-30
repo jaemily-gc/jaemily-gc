@@ -16,8 +16,8 @@ Your understanding of this condition is appreciated.
 
 Thank you!
 
-   `_"Presenting a project publicly is not a permission to be violated by evaluating experts, especially, by unauthorized cloners." 
-                                                          -Jaemily Galinato Cadimas_`
+_`"Presenting a project publicly is not a permission to be violated by evaluating experts, especially, by unauthorized cloners." 
+                                                          -Jaemily Galinato Cadimas`_
 
                                                       
 - 👋 Hi, I’m Jaemily.                  
