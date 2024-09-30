@@ -1,3 +1,8 @@
+`**`Check my project portfolio demos now!**
+visit: **www.youtube.com/@jaemily-gc**`
+(My Repository Projects Channel)`
+
+                                                             
                                                                                                   Updated: September 30, 2024
                                                       
 GitHub Profile README
@@ -14,8 +19,8 @@ Your understanding of this condition is appreciated.
 
 Thank you!
 
-    "Presenting a project publicly is not a permission to be violated by evaluating experts, especially, by unauthorized cloners." 
-                                                                    -Jaemily Galinato Cadimas 
+   "Presenting a project publicly is not a permission to be violated by evaluating experts, especially, by unauthorized cloners." 
+                                                          -Jaemily Galinato Cadimas 
 
                                                       
 - 👋 Hi, I’m Jaemily.                  
