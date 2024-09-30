@@ -1,6 +1,6 @@
-`**`Check my project portfolio demos now!**
-visit: **www.youtube.com/@jaemily-gc**`
-(My Repository Projects Channel)`
+**Check my project portfolio demos now!**
+Visit: **www.youtube.com/@jaemily-gc*
+(My Repository Projects Channel)
 
                                                              
                                                                                                   Updated: September 30, 2024
